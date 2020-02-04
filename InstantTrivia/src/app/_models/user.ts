@@ -1,9 +1,10 @@
-export class User{
+export class User {
 
-  id: number;
-  username: string;
-  password: string;
-  email: string;
-  token: string;
+  public Id: number;
+  public Username: string;
+  public Password: string;
+  public Email: string;
+  public Token: string;
+
 
 }
