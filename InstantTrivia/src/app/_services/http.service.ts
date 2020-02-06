@@ -13,9 +13,12 @@ export class HttpService {
   }
 
   postData(url: string, model: any) {
+    let json = '';
     this.http.post(url, model).toPromise().then(data => {
       console.log(data);
+      json = data.toString();
     });
+    return json;
 }
 
 }

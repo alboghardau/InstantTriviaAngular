@@ -25,10 +25,12 @@ export class LoginComponent implements OnInit {
 
   ngOnInit() {
 
+  }
+
+  login() {
     console.log(JSON.stringify(this.user));
-    this.httpServ.postData('http://itrivia.eu/api/user/login/', JSON.stringify(this.user));
-
-
+    let data = this.httpServ.postData('http://itrivia.eu/api/user/login/', JSON.stringify(this.user));
+    console.log("data" + data);
   }
 
   createLoginForm() {
