@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2777.6" height="2110.976" viewBox="0 0 4000 3040">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        fill-rule: evenodd;
+      }
+
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2, .cls-4 {
+        fill: #d1c4e9;
+        opacity: 0.15;
+      }
+
+      .cls-2 {
+        mix-blend-mode: lighten;
+      }
+
+      .cls-3 {
+        fill: #9575cd;
+        opacity: 0.32;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="-52.781" y1="1557.162" x2="4033.34" y2="1485.838" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#5f34af"/>
+      <stop offset="1" stop-color="#8a6ad4"/>
+    </linearGradient>
+  </defs>
+  <path id="Rectangle_1_copy" data-name="Rectangle 1 copy" class="cls-1" d="M-52.778-12l4075,10,11.11,3057-4075-8Z"/>
+  <path class="cls-2" d="M-552.778,266S663.889,66.448,1791.67,286,3664.82,503.535,4163.89,400C4925,242.1,4330.56-234,4330.56-234L-391.667-308-547.222,282"/>
+  <path id="Shape_1_copy" data-name="Shape 1 copy" class="cls-2" d="M-552.778,266S663.889,66.448,1791.67,286,3664.82,503.535,4163.89,400C4925,242.1,4330.56-234,4330.56-234L-391.667-308-547.222,282"/>
+  <path class="cls-3" d="M-27.778,2752C64.615,2154.44-1.824,2025.7,450,1562c388.438-398.65-186.412-547.98-502.778-657.31"/>
+  <path class="cls-4" d="M4011.11,1363S3426.39,2967.27,1113.89,3051c-528.292,19.13,1370.09,185.35,1363.89,219-115.36,626.13,1511.11-71,1511.11-71s-1693.45-403.07,672.22-1289,1775-564,1775-564"/>
+</svg>
